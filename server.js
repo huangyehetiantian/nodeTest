@@ -48,5 +48,5 @@ var server=http.createServer(function(req,res){
     // })
     // res.write('这是正文部分');//显示给客户端
     // res.end();
-}).listen(8000);
+}).listen(80);
 console.log('服务器开启成功');
