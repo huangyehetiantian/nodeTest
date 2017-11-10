@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "express-generator": "^4.15.5",
     "mysql": "^2.15.0"
   }
 }
