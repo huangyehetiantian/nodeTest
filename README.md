@@ -1,2 +1,2 @@
 # nodeTest
-利用node搭建服务器
+Node+express+mysql一个关于node小的demo
